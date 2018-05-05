@@ -33,6 +33,6 @@
 	},
 	"dependencies": {
 		"axios": "^0.18.0",
-		"jquery": "^1.12.4"
+		"jquery": "^3.3.1"
 	}
 }

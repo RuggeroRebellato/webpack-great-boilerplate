@@ -8,7 +8,7 @@ async function Login(email, password) {
 		})
 		return res
 	} catch (error) {
-		console.error(error)
+		return error
 	}
 }
 
